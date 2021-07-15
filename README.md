@@ -1,1 +1,1 @@
-# CP Problem Solving
+# Daily Problem Solving Practice
